@@ -62,7 +62,7 @@ const FormPage = () => {
               <Link href={""}>Forgot your password?</Link>
             </Typography>
             <Typography variant="body2" color="textSecondary">
-              Don't have an account?{" "}
+              Dont have an account?{" "}
               <Link href={"/register"} className=" text-blue-800-">
                 Signup
               </Link>
