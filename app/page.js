@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import Feature from "./components/Feature";
 import Card from "./components/Card";
